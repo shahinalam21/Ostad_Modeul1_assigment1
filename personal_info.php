@@ -1,0 +1,7 @@
+<?php
+$name = "Md Shahin alam";
+$age = 22;
+$country = "Bangladesh";
+$info_about_me = "Assalamu alaikum everyone. This is {$name}.I am {$age} years old. My country is {$country}. I am a Student of Dhaka International University department of Computer science and Engineering. Before Addmition university I have complete my Diploma in Engineering Departmet of Computer technology in Kurigram polytechnic institute. Now I am Live in Uttor Badda, Badda, Dhaka. My home distric is Rangpur. I have a family we are two brother and two sister. My Father Name is Md. Abdul Momin Mia and my Mother name is Most. Motion begume. I am the yeangoer all of my sister and brother. Now I am a Student and I have a job in Retail technology LTD as a IT support Engineer. As a man I have a gol. I would like to be a Software Engineer. Thats why I am prefer my first programing study with Ostad and I belived that Ostad have a very good mentor and support I wish as my jurney I have success, In this jurney and I will go way my gol. As a man I am vey much dedicated and very first leaner I wish Ostad could help on my jurney. I have a target priveices 1 year I will learn Php,Laravel,and Database.Then I will switch My job and try to get a job as a Junior software developer.Thanks all of the team Of ostad and thanks all mentors. Assalamu alaikum rahamatullah.";
+
+echo "{$info_about_me}";
